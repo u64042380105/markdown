@@ -1,2 +1,2 @@
 # Thananchai Midchid
-## cs
+## Computer Science
